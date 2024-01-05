@@ -1,6 +1,4 @@
 # demogit
 
-waichee here 
+scott here 
 hello world
-hi
-new things 2
